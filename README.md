@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CheshireAtTheFront
+- 👀 I’m interested in web development, backend, chatbots
+- 🌱 I’m currently learning web development
